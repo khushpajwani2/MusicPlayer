@@ -2,6 +2,4 @@
     <string name="app_name">MusicPlayer</string>
     <string name="channel_name">musicPlayer</string>
     <string name="channel_description">demo music player</string>
-    <string name="play">Play</string>
-    <string name="pause">Pause</string>
 </resources>
